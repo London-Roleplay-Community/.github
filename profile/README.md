@@ -1,8 +1,8 @@
 <h1 align="center">London Roleplay Community</h1>
   
 <p align="center">
-  <a href="https://discord.gg/J5Erb76tRw">Discord</a>
-  <a href="https://www.roblox.com/communities/35713466/LRC-London-Roleplay-Community#!/about">Roblox</a>
+  ![Static Badge](https://img.shields.io/badge/Discord-Communications-blue?style=plastic&logo=discord&link=https%3A%2F%2Fdiscord.com%2Finvite%2FJ5Erb76tRw)
+  ![Static Badge](https://img.shields.io/badge/Roblox-Group-red?style=plastic&logo=roblox&link=https%3A%2F%2Fwww.roblox.com%2Fcommunities%2F35713466%2FLRC-London-Roleplay-Community%23!%2Fabout)
 </p>
 
 ---
