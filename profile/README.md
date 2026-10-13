@@ -12,4 +12,4 @@
 ---
 <h3 align="center">About</h3>
 
-<p align="center">London Roleplay Community (LRC, for short) is a Roblox based community that focuses on levelling up Roblox roleplay.</p>
+<p align="center">London Roleplay Community (LRC, for short) is a Roblox based community that focuses on levelling up Roblox roleplay.<br/> Maintained and developed by Jaxon Beltran (jaxon@jxson.tech)</p>
